@@ -1,8 +1,6 @@
 <template>
   <div class="home">
     <h1>{{ message }}</h1>
-
-    <!-- ======= Top Bar ======= -->
     <section id="topbar" class="d-flex align-items-center">
       <div class="container d-flex justify-content-center justify-content-md-between">
         <div class="contact-info d-flex align-items-center">
@@ -19,7 +17,6 @@
         </div>
       </div>
     </section>
-    <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
       <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
         <h1>Click to Generate!</h1>
@@ -27,7 +24,6 @@
         <a href="#about" class="btn-get-started scrollto">Generate</a>
       </div>
     </section>
-    <!-- End Hero -->
   </div>
 </template>
 

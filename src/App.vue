@@ -63,23 +63,15 @@
               <ul>
                 <li>
                   <i class="bx bx-chevron-right"></i>
-                  <a href="#">Home</a>
+                  <a href="/home">Home</a>
                 </li>
                 <li>
                   <i class="bx bx-chevron-right"></i>
-                  <a href="#">About us</a>
+                  <a href="/about">About us</a>
                 </li>
                 <li>
                   <i class="bx bx-chevron-right"></i>
-                  <a href="#">Services</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Terms of service</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Privacy policy</a>
+                  <a href="/contact">Contact</a>
                 </li>
               </ul>
             </div>

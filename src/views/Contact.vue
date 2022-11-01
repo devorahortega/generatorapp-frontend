@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
         <div class="section-title">
@@ -73,6 +72,5 @@
         </div>
       </div>
     </section>
-    <!-- End Contact Section -->
   </div>
 </template>

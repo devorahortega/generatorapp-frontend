@@ -1,7 +1,6 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container">
         <div class="row">
@@ -38,6 +37,5 @@
         </div>
       </div>
     </section>
-    <!-- End About Section -->
   </div>
 </template>
